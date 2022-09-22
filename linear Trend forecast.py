@@ -1,5 +1,5 @@
 # Production analysis
-# Forecast calcuation - Trend-Adjusted Exponential Smoothing
+# Forecast calcuation - Linear Trend Forecast
 # -----------------------------------------------------------
 # By Shiva Shokoohi Mehran
 # shiva.shokoohi.mehran@gmail.com
